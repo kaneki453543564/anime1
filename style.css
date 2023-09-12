@@ -1,0 +1,184 @@
+
+@media (max-width: 576px){
+
+
+body{  
+    background-image: url("https://abrakadabra.fun/uploads/posts/2022-03/thumbs/1646547218_9-abrakadabra-fun-p-anime-oboi-na-rabochii-stol-tokiiskii-gul-10.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 700px;
+    margin: 0 auto 0 auto;
+    }
+    header{
+            padding-top: 20px;
+            background-image: url('https://e0.pxfuel.com/wallpapers/314/42/desktop-wallpaper-tokyo-ghoul-computer.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            display: block;
+            height: 350px;
+            width: 576px;
+            padding-right: 130px;
+            margin: 0 auto 0 auto;
+            color: #b8b2ab;
+            font-family: Trattatello, fantasy;
+            font-variant: small-caps;
+            font-style: italic;
+            font-size: 55px;
+            text-shadow: red 5px 5px 10px;
+            margin-bottom: 10px;
+    }
+    
+    header p{
+        padding-left: 50px;
+        padding-top: 55px;
+        letter-spacing: 3px;
+    }
+    
+    .main{
+        background-image: url("https://images5.alphacoders.com/116/1163220.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: block;
+        height: 400px;
+        width: 576px;
+        padding-right: 130px;
+        margin: 0 auto 0 auto;
+        color: #9e0e1a;
+        font-family: Trattatello, fantasy;
+        font-variant: small-caps;
+        font-style: italic;
+        font-size: 50px;
+    }
+    .main h1{
+        background: linear-gradient(45deg, #b721ff, #21d4fd);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 48px;
+        padding-top: 5px;
+        padding-left: 320px;
+        display: block;
+        text-shadow: #0c999e 5px 5px 10px;
+    }
+    
+    .hourse{
+        color: #c01e39;
+        padding-top: 15px;
+        padding-left: 28px;
+        font-size: 80px;
+        text-shadow: #b80e0e 5px 5px 10px;
+        background: linear-gradient(45deg, #ff0844, #ffb199);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-decoration: underline;
+    }
+    
+    .tir{
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin: 0 auto 0 auto;
+        width: 700px;
+    
+    }
+    .tir article{
+        display: block;
+        color: #ffffff;
+        font-family: Trattatello, fantasy;
+        font-variant: small-caps;
+        font-style: italic;
+        font-size: 40px;
+        text-shadow: red 5px 5px 10px;
+        margin: 0 auto 0 auto;
+        width: 400px;
+    }
+    .rang{
+        text-shadow: none;
+        color: rgb(255, 255, 255);
+        font-size: 50px;
+        padding-right: 15px;
+        text-decoration: underline 5px solid rgb(110, 103, 103);
+    }
+    .head{
+        background-image: linear-gradient(to bottom, #9ab3a7 0%, #5d4157 100%);
+        border: 0px solid #5d4157;
+        border-radius: 20px;
+        width: 550px;
+        padding: 10px;
+        padding-right: 300px;
+        text-align: center;
+        margin: 0 auto 0 auto ;
+        margin-top: 30px;
+        font-family: fantasy;
+        font-size: 40px;
+        letter-spacing: 10px;
+        border-bottom: 2px solid #583b52;
+    }
+    .info{
+        width: 500px;
+        padding-right:  200px;
+        margin: 0 auto 0 auto;
+        background-image: linear-gradient(30deg, #a8caba 0%, #5d4157 100%);
+        border-bottom: 1px solid #583b52;
+        border-top: 1px solid #583b52;
+        border-left: 1px solid #583b52;
+        border-right: 1px solid #583b52;
+        margin-bottom: 50px;
+        border-radius: 20px;
+        padding-left: 30px;
+    }
+    table{
+        padding-top: 45px;
+        padding-bottom: 35px;
+        display: flex;
+        justify-content: center;
+        font-size: 22px;
+        font-family: cursive;
+        text-align: left;
+        letter-spacing: 2.5px;
+        line-height: 35px;
+    }
+    .nomber{
+        font-size: 25px;
+        padding-right: 30px;
+        padding-left: 15px;
+    }
+    .neme{
+        display: flex;
+        justify-content: center;
+        
+    }
+    .rang1{
+        font-size: 28px;
+        padding-left: 20px;
+        text-decoration: underline 3px solid rgb(0, 0, 0);
+    }
+.navvv{
+    background-image: linear-gradient(to bottom, #a8caba 0%, #5d4157 100%);
+    width: 350px;
+    border-radius: 50px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    
+}
+.navvv a{
+    padding-left: 10px;
+    color: black;
+    text-decoration: none;
+    font-family: cursive;
+    border-left: 1px solid black;
+}
+.nav{
+    border: 1px solid black;
+    margin-left: 70px;
+    margin-right: 65px;
+    padding: 1px;
+}
+.nav:hover{
+    color: white;
+}
+
+}
